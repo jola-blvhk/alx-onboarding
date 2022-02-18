@@ -1,0 +1,12 @@
+this program calculates the sum of sqauares of given input of numbers
+
+1.get number of squares from user
+2.initialize variable sum // for the sum that we are calculating
+3.initialize variable rem //  for remainder
+4.set both to zero
+5.initialize a while loop with the condition of:
+6.while num is not equal to zero
+7.then the rem is equal to num modulas 10
+8. and sum is equal to sum + (rem * rem)
+9. lastly num is equal to num / 10
+10. print out the sum
